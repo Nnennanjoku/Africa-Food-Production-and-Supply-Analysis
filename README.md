@@ -72,6 +72,8 @@ The third dataset which we will also analyze and then use for our hypothesis tes
 * The most cultivated food items included Cassava, Sugar Cane, Maize and its derivatives, Yam, Vegetables, and Milk (excluding butter). Conversely, the least produced items comprised Cloves, Pepper, Molluscs, Fish, Liver oil, and aquatic animals.
 
 * Nigeria is the top cassava producing country with a total of 452,881 kiloton followed by Ghana with total cassava production of 121,026 and Angola with 121,026.
+  
+* Algeria is the top producing oats product with a total of 849 kilotons, followed by Ethiopia with 443 kilotons and then South Africa with a total of 406 kilotons.
 
 * South Africa is the top Maize producing country from 2004 to 2013 having a total production of 107,343 kt followed by Nigeria with total of 76,898 kt, Egypt 70,993 kt.
 
